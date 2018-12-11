@@ -99,38 +99,36 @@ def task10():
 
 
 def task11():
-    list_name = [["Yuriy", "Semesyuk", 21],
+    list_user = [["Yuriy", "Semesyuk", 21],
                  ["Ihor", "Matruk", 22],
                  ["Roman", "Soloviyov", 23],
                  ["Iruna", "Koran", 24]]
-    n = 0
-    while n <= 2:
-        list_name_2 = sorted(list_name, key=lambda i: i[n])
-        print(list_name_2)
-        n += 1
+    x = 0
+    while x <= 2:
+        list_user_sorted = sorted(list_user, key=lambda i: i[x])
+        print(list_user_sorted)
+        x += 1
 
 
 def task12():
-    list_name = ["Yuriy", "Semesyuk", 21,
-                 "Ihor", "Matruk", 22,
-                 "Roman", "Soloviyov", 23,
-                 "Iruna", "Koran", 24]
-    n = "Semesyuk"
-    if n in list_name:
+    list_user = ["Yuriy", "Semesyuk", "Ihor", "Matruk","Roman", "Soloviyov", "Iruna", "Koran"]
+    name = "Yuriy"
+    if name in list_user:
         print(True)
     else:
         print(False)
 
 
 def task12_1():
-    list_name = ["Yuriy", "Semesyuk", 21,
-                 "Ihor", "Matruk", 22,
-                 "Roman", "Soloviyov", 23,
-                 "Iruna", "Koran", 24]
-    n = "Semesyuk"
-    for i in list_name:
-        if i == n:
-            print(True)
+    list_user = ["Yuriy", "Semesyuk", "Ihor", "Matruk", "Roman", "Soloviyov", "Iruna", "Koran"]
+    name = "Yuriy"
+    result = False
+    for x in list_user:
+        if x != name:
+            continue
+        else:
+            result = True
+    print(result)
 
 
 if __name__ == "__main__":
