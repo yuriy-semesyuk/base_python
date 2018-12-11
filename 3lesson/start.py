@@ -80,22 +80,22 @@ def task8():
 
 def task9():
     list_number = [0, 1, 2, 3, 4, 5]
-    list_number_2 = []
+    list_number_sort = []
     for n in range(len(list_number)):
         if n % 2 == 0:
-            list_number_2.insert(n, list_number[n + 1])
+            list_number_sort.insert(n, list_number[n + 1])
         else:
-            list_number_2.insert(n, list_number[n - 1])
-    print(list_number_2)
+            list_number_sort.insert(n, list_number[n - 1])
+    print(list_number_sort)
 
 
 def task10():
     list_number = [0, 1, 2, 3, 4, 5]
-    list_number_2 = []
+    list_number_sort = []
     for n in range(len(list_number)):
-        list_number_2.append("element")
-        list_number_2.append(list_number[n])
-    print(list_number_2)
+        list_number_sort.append("element")
+        list_number_sort.append(list_number[n])
+    print(list_number_sort)
 
 
 def task11():
@@ -111,7 +111,7 @@ def task11():
 
 
 def task12():
-    list_user = ["Yuriy", "Semesyuk", "Ihor", "Matruk","Roman", "Soloviyov", "Iruna", "Koran"]
+    list_user = ["Yuriy", "Semesyuk", "Ihor", "Matruk", "Roman", "Soloviyov", "Iruna", "Koran"]
     name = "Yuriy"
     if name in list_user:
         print(True)
@@ -132,4 +132,4 @@ def task12_1():
 
 
 if __name__ == "__main__":
-    task12_1()
+    task10()
