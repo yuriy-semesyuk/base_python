@@ -31,12 +31,12 @@ def task3():
 
 def is_leap(year):
     if year % 4 == 0:
-        if year % 100 == 0 and year % 400 == 0:
+        if year % 400 == 0:
             year = True
-        elif year % 100 == 0 and year % 400 != 0:
+            return year
+        elif year % 100 == 0:
             year = False
-        else:
-            year = True
+            return year
     else:
         year = False
     return year
