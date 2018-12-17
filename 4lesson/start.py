@@ -116,17 +116,17 @@ def task12():
     upper_case_bool = False
     special_characters_bool = False
     if len(password) < 6:
-        print("Ви ввели менше шисто символів")
-    else:
-        for i in password:
-            if i in numbers:
-                numbers_bool = True
-            if i in lower_case:
-                lower_case_bool = True
-            if i in upper_case:
-                upper_case_bool = True
-            if i in special_characters:
-                special_characters_bool = True
+        x = 6 - len(password)
+        print("Добавте ще {}".format(x))
+    for i in password:
+        if i in numbers:
+            numbers_bool = True
+        if i in lower_case:
+            lower_case_bool = True
+        if i in upper_case:
+            upper_case_bool = True
+        if i in special_characters:
+            special_characters_bool = True
     error_line = ""
     if not numbers_bool:
         error_line += "Добавте в пароль 0123456789,\n"
@@ -143,4 +143,4 @@ def task12():
 
 
 if __name__ == "__main__":
-    task9()
+    task12()
