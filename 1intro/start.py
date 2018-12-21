@@ -47,11 +47,11 @@ def task4():
 
 def task7():
     num = int(input("Введіть число\n"))
-    sum = 0
+    suma = 0
     for n in range(num):
-        sum += n
+        suma += n
         print(n)
-    print ("Результат = {}".format(sum))
+    print("Результат = {}".format(suma))
 
 
 def tack8():
@@ -61,8 +61,8 @@ def tack8():
     if a == b or b == c or a == c:
         print("Результат = 0")
     else:
-        sum = a + b + c
-        print("Результат = {}".format(sum))
+        suma = a + b + c
+        print("Результат = {}".format(suma))
 
 
 def task9():

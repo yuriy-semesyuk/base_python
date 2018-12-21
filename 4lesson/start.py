@@ -72,7 +72,7 @@ def task9():
     while True:
         if inp_line.find(inp) != (-1):
             cout += 1
-            inp_line = inp_line[inp_line.find(inp)+1:]
+            inp_line = inp_line[inp_line.find(inp) + 1:]
         else:
             break
     print(cout)
@@ -90,7 +90,7 @@ def task11():
     var = ""
     result_line = ""
     result = "NO"
-    for i in range(int(len_line*0.5)):
+    for i in range(int(len_line * 0.5)):
         var += input_line[i]
         result_line += var
         x = result_line
@@ -115,9 +115,6 @@ def task12():
     lower_case_bool = False
     upper_case_bool = False
     special_characters_bool = False
-    if len(password) < 6:
-        x = 6 - len(password)
-        print("Добавте ще {}".format(x))
     for i in password:
         if i in numbers:
             numbers_bool = True
@@ -128,19 +125,25 @@ def task12():
         if i in special_characters:
             special_characters_bool = True
     error_line = ""
+    x = 0
     if not numbers_bool:
         error_line += "Добавте в пароль 0123456789,\n"
+        x += 1
     if not lower_case_bool:
         error_line += "Добавте в пароль abcdefghijklmnopqrstuvwxyz,\n"
+        x += 1
     if not upper_case_bool:
         error_line += "Добавте в пароль ABCDEFGHIJKLMNOPQRSTUVWXYZ,\n"
+        x += 1
     if not special_characters_bool:
         error_line += "Добавте в пароль !@#$%^&*()-+,\n"
-    if error_line:
-        print(error_line)
+        x += 1
+    if error_line or len(password) < 6:
+        x = 6 - len(password)
+        print("Добавте ще {} {}".format(x), error_line)
     else:
         print("Ваш пароль {}".format(password))
 
 
 if __name__ == "__main__":
-    task12()
+    task1()

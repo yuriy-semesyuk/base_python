@@ -24,9 +24,9 @@ def task2():
 def task3():
     year = is_leap(int(input("Введіть рік\n")))
     if year:
-        print ("Є високосним роком")
+        print("Є високосним роком")
     else:
-        print ("Не є високосним роком")
+        print("Не є високосним роком")
 
 
 def is_leap(year):
@@ -40,6 +40,7 @@ def is_leap(year):
     else:
         year = False
     return year
+
 
 if __name__ == "__main__":
     task3()
