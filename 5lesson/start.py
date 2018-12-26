@@ -48,4 +48,4 @@ def task5():
 
 
 if __name__ == "__main__":
-    task5()
+    task1()

@@ -145,5 +145,29 @@ def task12():
         print("Ваш пароль {}".format(password))
 
 
+def task13():
+    password = input("Введіть пароль\n")
+    numbers = "0123456789"
+    lower_case = "abcdefghijklmnopqrstuvwxyz"
+    upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    special_characters = "!@#$%^&*()-+"
+    prn_list = set()
+    for i in password:
+        if numbers and i in numbers:
+            prn_list.add(numbers)
+            numbers = False
+        if lower_case and i in lower_case:
+            prn_list.add(lower_case)
+            lower_case = False
+        if upper_case and i in upper_case:
+            prn_list.add(upper_case)
+            upper_case = False
+        if special_characters and i in special_characters:
+            prn_list.add(special_characters)
+            special_characters = False
+    print(prn_list)
+
+
+
 if __name__ == "__main__":
-    task1()
+    task13()
