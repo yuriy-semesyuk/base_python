@@ -1,0 +1,12 @@
+(){}Arguments are written(){}Arguments are written(){}Arguments are written(1, 5, 10){}
+Arguments are written
+(5, 5, 5){}
+Arguments are written
+(1, 5, 10){}
+Arguments are written
+(5, 5, 5){}
+Arguments are written
+(1, 5, 10){}
+Arguments are written
+(5, 5, 5){}
+Arguments are written

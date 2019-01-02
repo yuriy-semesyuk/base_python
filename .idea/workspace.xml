@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c931f97a-dd07-4dff-8d06-fe9ff0b9e9bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7lesson/book.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7lesson/book_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7lesson/book_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7lesson/learning_python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10lessons/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8lesson/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9lesson/shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9lesson/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4lesson/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/4lesson/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5lesson/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/5lesson/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6lesson/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/6lesson/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7lesson/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/7lesson/start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,17 +20,18 @@
     <session id="-236256788">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,59 +40,75 @@
           <entry key="gitignore" value="1" />
           <entry key="new_key" value="1" />
           <entry key="pub" value="1" />
-          <entry key="py" value="28" />
-          <entry key="txt" value="8" />
+          <entry key="py" value="47" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="28" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Python" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="797" />
+          <entry key="Python Console" value="861" />
           <entry key="dummy" value="8" />
-          <entry key="py" value="16461" />
+          <entry key="py" value="21144" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="17258" />
+          <entry key="Python" value="22005" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="itea" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6lesson/start.py">
+        <entry file="file://$PROJECT_DIR$/9lesson/shop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="8" column="72" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="72" />
               <folding>
-                <marker date="1545834845952" expanded="true" signature="903:927" ph="..." />
-                <marker date="1545834845952" expanded="true" signature="944:1007" ph="..." />
-                <marker date="1545834845952" expanded="true" signature="1033:1038" ph="..." />
-                <marker date="1545834845952" expanded="true" signature="1666:1750" ph="..." />
-                <marker date="1545834845952" expanded="true" signature="5185:5347" ph="..." />
+                <marker date="1546089629923" expanded="true" signature="664:669" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9lesson/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding>
+                <marker date="1546024272273" expanded="true" signature="31:33" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7lesson/start.py">
+        <entry file="file://$PROJECT_DIR$/10lessons/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-              <folding>
-                <marker date="1545834845944" expanded="true" signature="41:46" ph="..." />
-                <marker date="1545834845944" expanded="true" signature="1160:1701" ph="..." />
-              </folding>
+            <state relative-caret-position="239">
+              <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logg.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -114,7 +129,6 @@
         <option value="$PROJECT_DIR$/3lesson/start.py" />
         <option value="$PROJECT_DIR$/1intro/start.py" />
         <option value="$PROJECT_DIR$/2lesson/start.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/5lesson/start.py" />
         <option value="$PROJECT_DIR$/4lesson/start.py" />
         <option value="$PROJECT_DIR$/7lesson/learning_python.txt" />
@@ -122,16 +136,39 @@
         <option value="$PROJECT_DIR$/7lesson/book_2.txt" />
         <option value="$PROJECT_DIR$/7lesson/book_3.txt" />
         <option value="$PROJECT_DIR$/6lesson/start_2.py" />
-        <option value="$PROJECT_DIR$/6lesson/start.py" />
         <option value="$PROJECT_DIR$/7lesson/start.py" />
+        <option value="$PROJECT_DIR$/6lesson/start.py" />
+        <option value="$PROJECT_DIR$/8lesson/start.py" />
+        <option value="$PROJECT_DIR$/9lesson/shop.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/9lesson/start.py" />
+        <option value="$PROJECT_DIR$/9lesson/__init__.py" />
+        <option value="$PROJECT_DIR$/10lessons/start.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
+    <option name="x" value="51" />
     <option name="y" value="23" />
-    <option name="width" value="1388" />
+    <option name="width" value="1389" />
     <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnreachableCodeInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,41 +184,6 @@
               <item name="itea" type="b2602c69:ProjectViewProjectNode" />
               <item name="itea" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="1intro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="2lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="3lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="4lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="5lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="6lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="itea" type="462c0819:PsiDirectoryNode" />
-              <item name="7lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -191,6 +193,13 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -209,8 +218,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start (2)">
-    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="itea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3lesson/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9lesson/shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="itea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6lesson/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9lesson/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8lesson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5lesson/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8lesson/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="itea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6lesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6lesson/start_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,15 +305,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.start" />
-      <item itemvalue="Python.start_2" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.start (1)" />
-      <item itemvalue="Python.start (2)" />
+      <item itemvalue="Python.shop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start (2)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.shop" />
         <item itemvalue="Python.start (1)" />
-        <item itemvalue="Python.start_2" />
         <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
@@ -332,22 +341,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="23" width="1388" height="877" extended-state="0" />
+    <frame x="51" y="23" width="1389" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15801024" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.15789473" />
+      <window_info id="Structure" order="1" sideWeight="0.50190115" side_tool="true" weight="0.15801024" />
+      <window_info id="Favorites" order="2" sideWeight="0.50190115" side_tool="true" weight="0.15801024" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49743965" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963424" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4959766" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989027" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49524507" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50475496" side_tool="true" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49342105" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5065789" side_tool="true" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49890432" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -363,10 +372,18 @@
       <path value="$PROJECT_DIR$/2BasicStuff/2intro" />
       <path value="$PROJECT_DIR$/intro" />
       <path value="$PROJECT_DIR$/intro/itea_1intro" />
+      <path value="$PROJECT_DIR$/1intro" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8lesson/start.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -375,6 +392,31 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="cache" language="Python" />
+        <watch expression="temp = (datetime.now() - cache[args][&quot;time&quot;]) &gt; timedelta(dec_kwargs[&quot;second&quot;])" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>temp = (datetime.now() - cache[args][&quot;time&quot;]) &gt; timedelta(dec_kwargs[&quot;second&quot;])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>temp =</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cache</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1intro/start2.py" />
@@ -383,7 +425,6 @@
     <entry file="file://$PROJECT_DIR$/new_key.pub" />
     <entry file="file://$PROJECT_DIR$/intro/itea_1intro/start.py" />
     <entry file="file://$PROJECT_DIR$/intro/itea_1intro/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -391,20 +432,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2lesson/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4lesson/start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="167" column="14" selection-start-line="167" selection-start-column="14" selection-end-line="167" selection-end-column="14" />
-          <folding>
-            <marker date="1545563358488" expanded="true" signature="3473:4205" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -426,24 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <marker date="1545559612356" expanded="true" signature="12:174" ph="..." />
-            <marker date="1545559612356" expanded="true" signature="174:1440" ph="..." />
-            <marker date="1545559612356" expanded="true" signature="1437:1440" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3lesson/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="109" column="14" lean-forward="true" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="14" />
-          <folding>
-            <marker date="1544569792120" expanded="true" signature="12:17" ph="..." />
-            <marker date="1544569792120" expanded="true" signature="2134:2136" ph="..." />
-            <marker date="1544569792120" expanded="true" signature="2149:2948" ph="..." />
-            <marker date="1544569792120" expanded="true" signature="2686:2948" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,38 +522,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7lesson/sum_numbers.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/6lesson/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-          <folding>
-            <marker date="1545834845952" expanded="true" signature="903:927" ph="..." />
-            <marker date="1545834845952" expanded="true" signature="944:1007" ph="..." />
-            <marker date="1545834845952" expanded="true" signature="1033:1038" ph="..." />
-            <marker date="1545834845952" expanded="true" signature="1666:1750" ph="..." />
-            <marker date="1545834845952" expanded="true" signature="5185:5347" ph="..." />
-          </folding>
+        <state relative-caret-position="224">
+          <caret line="234" column="13" lean-forward="true" selection-start-line="234" selection-start-column="13" selection-end-line="234" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2lesson/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3lesson/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="113" column="61" selection-start-line="113" selection-start-column="61" selection-end-line="113" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8lesson/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="59" lean-forward="true" selection-start-line="43" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loggg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7lesson/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        <state relative-caret-position="299">
+          <caret line="54" column="69" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9lesson/shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="72" />
           <folding>
-            <marker date="1545834845944" expanded="true" signature="41:46" ph="..." />
-            <marker date="1545834845944" expanded="true" signature="1160:1701" ph="..." />
+            <marker date="1546089629923" expanded="true" signature="664:669" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9lesson/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9lesson/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <marker date="1546024272273" expanded="true" signature="31:33" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10lessons/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
         </state>
       </provider>
     </entry>
